@@ -34,6 +34,7 @@ public class PsalmOTheDay extends Fragment {
     private String mParam2;
 
     private OnFragmentInteractionListener mListener;
+    ListView listView;
 
 
     private ListViewAdapter listViewAdapter = null;
@@ -88,8 +89,10 @@ public class PsalmOTheDay extends Fragment {
         }
 
         listViewAdapter = new ListViewAdapter(view.getContext(),R.layout.listview_info,listDataArrayList);
-        ListView listView = view.findViewById(R.id.palsmlist);
+        listView = view.findViewById(R.id.palsmlist);
         listView.setAdapter(listViewAdapter);
+
+
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener(){
 
@@ -97,6 +100,7 @@ public class PsalmOTheDay extends Fragment {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 if(listData.get(position).getTexts().equals("test")){
                     Toast.makeText(getActivity(), "Here", Toast.LENGTH_SHORT).show();
+
                 }
 
             }
@@ -145,8 +149,10 @@ public class PsalmOTheDay extends Fragment {
      * "http://developer.android.com/training/basics/fragments/communicating.html"
      * >Communicating with Other Fragments</a> for more information.
      */
+
+    
     public interface OnFragmentInteractionListener {
         // TODO: Update argument type and name
-        void onPsalmInteraction(Uri uri);
+        void onPsalmInteraction(PsalmOTheDay psalmOTheDay,String message);
     }
 }

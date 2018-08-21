@@ -64,13 +64,15 @@ UserPref.OnFragmentInteractionListener{
 
     }
 
+
+
     @Override
-    public void onPsalmInteraction(Uri uri) {
+    public void onUserPrefInteraction(Uri uri) {
 
     }
 
     @Override
-    public void onUserPrefInteraction(Uri uri) {
+    public void onPsalmInteraction(PsalmOTheDay psalmOTheDay) {
 
     }
 }
