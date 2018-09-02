@@ -7,6 +7,8 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.SeekBar;
 
 
 /**
@@ -63,8 +65,15 @@ public class UserPref extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
+
+        View view  = inflater.inflate(R.layout.fragment_user_pref, container, false);
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_user_pref, container, false);
+        Button morningBtn = view.findViewById(R.id.morningbtn);
+        Button nightBtn = view.findViewById(R.id.nightbtn);
+        SeekBar textSize = view.findViewById(R.id.textsize);
+
+        mListener.onUserPrefInteraction(morningBtn,nightBtn,textSize);
+        return view;
     }
 
     // TODO: Rename method, update argument and hook method into UI event
@@ -103,6 +112,6 @@ public class UserPref extends Fragment {
      */
     public interface OnFragmentInteractionListener {
         // TODO: Update argument type and name
-        void onUserPrefInteraction(Uri uri);
+        void onUserPrefInteraction(Button btnone,Button btntwo, SeekBar seekBar);
     }
 }

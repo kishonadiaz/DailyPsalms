@@ -10,6 +10,23 @@ android {
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
+    flavorDimensions "version"
+    productFlavors{
+        demo{
+            dimension "version"
+            versionName "1.1-demo"
+            applicationIdSuffix ".demo"
+            versionNameSuffix "-demo"
+        }
+        full{
+
+            dimension "version"
+            versionName "1.1-full"
+            applicationIdSuffix ".full"
+            versionNameSuffix "-full"
+
+        }
+    }
     buildTypes {
         release {
             minifyEnabled false
@@ -30,4 +47,6 @@ dependencies {
     implementation 'com.android.support:appcompat-v7:26.1.0'
     implementation 'com.android.support:design:26.1.0'
     implementation 'com.android.support:support-v13:26.1.0'
+    implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.12'
+    implementation 'com.google.android.gms:play-services-ads:15.0.1'
 }

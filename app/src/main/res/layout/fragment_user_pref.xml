@@ -15,9 +15,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="44dp"
-        android:text="Morning"
-        />
+        android:layout_marginTop="130dp"
+        android:text="Morning" />
 
     <Button
         android:id="@+id/nightbtn"
@@ -25,16 +24,27 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="178dp"
+        android:layout_marginTop="196dp"
         android:text="Night" />
 
-    <Button
-        android:id="@+id/bothbtn"
-        android:layout_width="267dp"
+    <SeekBar
+        android:id="@+id/textsize"
+        android:layout_width="271dp"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="111dp"
-        android:text="Both" />
+        android:layout_marginBottom="204dp"
+        android:max="100"
+        android:progress="30" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="218dp"
+        android:layout_height="29dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="231dp"
+        android:gravity="center"
+        android:text="Text Size" />
 
 </RelativeLayout>

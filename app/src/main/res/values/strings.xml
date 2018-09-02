@@ -3,4 +3,235 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="psalms">
+        <item> BLESSED is the man\n
+                                    Who walks not in the counsel\n
+                                        the ungodly,\n
+                                    Nor stands in the path of\n
+                                        sinners,\n
+                                 2\t  But his delight is in the law of\n
+                                        the lord,\n
+                                    And inHis law he meditates\n
+                                        day and night.\n
+                        3\t\t\t\t\t\t\tHe shall be like a tree\n
+                                      Plated by the rivers of\n
+                                        water,\n
+                                      That brings forth its fruit in its\n
+                                        season,\n
+                                      Whose leaf also shall not\n
+                                        wither;\n
+                                    And whatever he does shall\n
+                                        prosper.\n\n
+                        4\t\t\t\t\t The ungodly are not so,\n
+                                    But are like the chaff which the\n
+                                        wind drives away.\n
+                        5\t\t\t\t\t Therefor the ungodly shall not\n
+                                        stand in the judgment,\n
+                                    Nor sinners in the congregation of\n
+                                        the righteous.\n\n\n
+                        6\t\t\t\t\t For the Lord knows the way of\n
+                                        the righteous.\n
+                                    But the way of the ungodly shall\n
+                                        perish.\n
+
+
+
+        </item>
+        <item name="psalm_two">\n\n
+           WHY do the nations rage,\n
+             And the people plot a vain\n
+               thing?\n
+           The Kings of the earth set \n
+               themselves,
+           And the rulers take counsel\n
+                together,\n
+           Against the Lord and against His\n
+                Anointed,saying,\n
+           "Let us break Their bonds in\npieces\n
+            And cast away Their cords from\n us."\n\n
+
+           He who sits in the heavens\n
+                shall laugh;\n
+           The Lord shall hold them in\n
+                derision.\n
+           Then He shall speak to them in\n
+                His wrath,\n
+           And distress them in his deep\n
+                displeasure:\n
+           "Yet I have set My King On My\n
+            holy hill of Zion."\n\n
+
+            "I will declare the decree:
+            The Lord has said to Me,\n
+            'You are My Son,\n
+            Today I have begotten You,\n
+            Ask of Me, andI will give You\n
+            The Nations for Your inheritance,\n
+            And the ends of the earth for Your \n
+                possession.\n
+            You shall break them with a rod\n
+                of iron\n
+            The Lord Our Shield\n
+             You shall dash them to pieces like a potter's vessel.'"\n\n
+
+            Now therefore, be wise, O lings;\n
+            Be instructed, you judges of the \n
+                earth.\n
+            Serve the Lord with fear,\n
+            And rejoice with trembling.\n
+            Kiss the Son, lest He be angry,\n
+            And you perish in the way,\n
+            when His wrath is kindled but a little.\n
+            Blessed are all those who put their\n
+            trust in Him\n
+        </item>
+        <item name="psalm_three">
+            A Psalm of David when he fled from Absalom his son\n
+            LORD, how they have increased\n
+                who troubled me!\n
+            Many are they who rise  up against me\n
+            Many are they who say of me\n
+            "There is no help for him God"\n\n
+
+            But You, O Lord,are a shield for me\n
+            My Glory and the One who lifts\n
+                up my head.\n
+            I cried to the Lord with my voice,\n
+            and He heard me from His holy hill\n\n
+
+            I lay down and slept;\n
+            I awoke, for the Lord sustained\n
+                me\n
+            I will not be afraid of ten\n
+                thousand of people\n
+            Who have set themselves against\n
+            me all around.\n\n
+
+            Arise, O Lord;\n
+            Save me, O my God!\n
+            For You have struck all my\n
+                enemies on the cheekbone;\n
+            You have broken the teeth of the\n
+                ungodly.\n
+            Salvation belongs to the Lord.\n
+            Your blessing is upon Your\n
+                people\n
+
+        </item>
+        <item name="psalm_four">
+            1 Answer me when I call to you, my righteous God.\n
+            Give me relief from my distress; have mercy on\n
+                me and hear my prayer.\n
+            2 How long will you people turn my glory into shame?\n
+            How long will you love delusions and seek false gods\n
+            3 Know that the LORD has set apart\n
+                his faithful servant for himself;\n
+            the LORD hears when I call to him.\n
+            4 Tremble and do not sin; when you\n
+                are on your beds, search your hearts and be silent.\n
+            5 Offer the sacrifices of the righteous\n
+                and trust in the LORD. 6 Many, LORD, are asking,\n
+            “Who will bring us prosperity?” Let the light of your\n
+                face shine on us.\n
+            7 Fill my heart with joy when their grain and new wine abound.\n
+            8 In peace I will lie down and sleep,\n
+                for you alone, LORD, make me dwell in safety.
+        </item>
+        <item name="psalm_five">
+            For the director of music. For pipes. A psalm of David.\n
+            1 Listen to my words, LORD, consider my lament.\n
+            2 Hear my cry for help,\n
+                my King and my God, for to you I pray.\n
+            3 In the morning, LORD, you hear my voice;\n
+                in the morning I lay my requests before you\n
+              and wait expectantly.\n
+            4 For you are not a God who is pleased with wickedness;\n
+                with you, evil people are not welcome.\n
+            5 The arrogant cannot stand in your presence.\n
+                You hate all who do wrong;\n
+            6 you destroy those who tell lies.\n
+              The bloodthirsty and deceitful you, LORD, detest.\n
+            7 But I, by your great love, can come into your house;\n
+              in reverence I bow down toward your holy temple.\n
+            8 Lead me, LORD, in your righteousness\n
+                because of my enemies— make your way straight before me.\n
+            9 Not a word from their mouth can be trusted;\n
+                their heart is filled with malice.\n
+              Their throat is an open grave; with their tongues\n
+              they tell lies.\n
+            10 Declare them guilty, O God! Let their intrigues\n
+               be their downfall. Banish them for their many sins,\n
+               for they have rebelled against you.\n
+            11 But let all who take refuge in you be glad;\n
+               let them ever sing for joy. Spread your protection\n
+               over them, that those who love your name may rejoice in you.\n
+            12 Surely, LORD, you bless the righteous;\n
+               you surround them with your favor as with a shield.\n
+        </item>
+
+        <item name="psalm_six">
+            For the director of music. With stringed instruments.
+            According to sheminith. A psalm of David.
+            1 LORD, do not rebuke me in your
+                anger or discipline me in your wrath.
+            2 Have mercy on me, LORD, for I am faint;
+                heal me, LORD, for my bones are in agony.
+            3 My soul is in deep anguish.
+                How long, LORD, how long?
+            4 Turn, LORD, and deliver me;
+                save me because of your unfailing love.
+            5 Among the dead no one proclaims your name.
+                Who praises you from the grave?
+            6 I am worn out from my groaning.
+                All night long I flood my bed with weeping
+                and drench my couch with tears.
+            7 My eyes grow weak with sorrow;
+                they fail because of all my foes.
+            8 Away from me, all you who do evil,
+                for the LORD has heard my weeping.
+            9 The LORD has heard my cry for mercy;
+                the LORD accepts my prayer.
+            10 All my enemies will be overwhelmed
+                with shame and anguish; they will
+                turn back and suddenly be put to shame.
+        </item>
+        <item name="psalm_seven">
+            1 A Meditation of David, which he sang to the Lord
+            concerning the words of Cush,
+            a Benjamite. O Lord my God, in You I put my trust;
+               Save me from all those who persecute me; And deliver me,
+            2 Lest they tear me like a lion, Rending
+            me in pieces, while there is none to deliver.
+            3 O Lord my God, if I have done this:
+            If there is iniquity in my hands,
+            4 If I have repaid evil to him who was at peace with me,
+            Or have plundered my enemy without cause,
+            5 Let the enemy pursue me and overtake me;
+            Yes, let him trample my life to the earth,
+            And lay my honor in the dust. Selah
+            6 Arise, O Lord, in Your anger; Lift Yourself up
+             because of the rage of my enemies;
+            Rise up for me to the judgment You have commanded!
+            7 So the congregation of the peoples shall surround You;
+            For their sakes, therefore, return on high.
+            8 The Lord shall judge the peoples; Judge me,
+            O Lord, according to my righteousness,
+            And according to my integrity within me.
+            9 Oh, let the wickedness of the wicked come to an end,
+            But establish the just; For the righteous God tests the hearts and minds.
+            10 My defense is of God, Who saves the upright in heart.
+            11 God is a just judge, And God is angry with the wicked every day.
+            12 If he does not turn back, He will sharpen His sword; He bends His bow and makes it ready.
+            13 He also prepares for Himself instruments of death; He makes His arrows into fiery shafts.
+            14 Behold, the wicked brings forth iniquity; Yes, he conceives trouble and brings forth falsehood.
+            15 He made a pit and dug it out, And has fallen into the ditch which he made.
+            16His trouble shall return upon his own head, And his violent dealing shall come down on his own crown.
+            17 I will praise the Lord according to His righteousness, And will sing praise to the name of the Lord Most High.
+
+
+        </item>
+    </string-array>
+
+
+
 </resources>
